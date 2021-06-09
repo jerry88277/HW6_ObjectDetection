@@ -1,0 +1,7 @@
+classes=13
+train  = ./cfg/train.txt
+valid  = ./cfg/val.txt
+names  = ./cfg/HW6.names
+backup = ./cfg/weights
+#eval=coco
+
